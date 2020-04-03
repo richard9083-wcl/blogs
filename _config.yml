@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-baseurl             : https://richard9083-wcl.github.io/blogs
+baseurl             : https://richard9083-wcl.github.io
 # It will redirect your site to this url
-url                 : https://richard9083-wcl.github.io/blogs
+url                 : https://richard9083-wcl.github.io
 title               : 梧桐祖
 name                : 梧桐祖
 subtitle            : "梧桐祖"
