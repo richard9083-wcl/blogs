@@ -9,12 +9,12 @@
 baseurl             : https://lansecong.com
 # It will redirect your site to this url
 url                 : https://lansecong.com
-title               : 蓝色璁
-name                : 蓝色璁
-subtitle            : "蓝色璁"
-description         : "蓝色璁"
+title               : 梧桐祖
+name                : 梧桐祖
+subtitle            : "梧桐祖"
+description         : "梧桐祖"
 repository          : lansecong/999_KaiFaBuBlogs_01.001
-keywords            : 蓝色璁 ,极云科技, 天津极云科技有限公司, 极云科技开发部, 极云, 极云科技分享社区 ,极云科技知识分享
+keywords            : 梧桐祖
 date_format         : "ordinal"
 timezone            : Asia/Shanghai
 encoding            : "utf-8"
@@ -23,7 +23,7 @@ side_bar_repo_limit : 3
 author              : lansecong
 github_username     : lansecong
 location            : TianJin, China
-email               : zhsc@kingdee-cloud.cn
+email               : richard9083@163.com
 
 markdown            : kramdown
 kramdown:
