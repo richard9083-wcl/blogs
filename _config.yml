@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-baseurl             : https://lansecong.com
+baseurl             : https://richard9083-wcl.github.io/blogs/
 # It will redirect your site to this url
-url                 : https://lansecong.com
+url                 : https://richard9083-wcl.github.io/blogs/
 title               : 梧桐祖
 name                : 梧桐祖
 subtitle            : "梧桐祖"
 description         : "梧桐祖"
-repository          : lansecong/999_KaiFaBuBlogs_01.001
+repository          : richard9083-wcl/blogs
 keywords            : 梧桐祖
 date_format         : "ordinal"
 timezone            : Asia/Shanghai
