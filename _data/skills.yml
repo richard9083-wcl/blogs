@@ -1,0 +1,24 @@
+-
+  name: Software Engineer
+  keywords:
+    - Java
+    - Python
+    - C#
+
+-
+  name: Web Developer
+  keywords:
+    - JavaScript
+    - JQuery
+
+-
+  name: Mobile Developer
+  keywords:
+    - Android
+    - Wechat
+
+-
+  name: Operations Engineer
+  keywords:
+    - CentOS
+    - Ubuntu
